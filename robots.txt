@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /kanri/
+Sitemap: https://bariton.juntanaka.com/sitemap.xml
